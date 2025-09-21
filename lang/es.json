@@ -1,0 +1,164 @@
+{
+  "OUTSOURCING": {
+    "TITLE": "La fuerza de los <span class='featured'>especialistas</span>, en la medida justa para tu negocio.",
+    "SUBTITLE": "Steply reúne más de <strong>doce años de experiencia y miles de talentos en tecnología</strong>, ya aplicados en proyectos exitosos."
+  },
+  "MENU": {
+    "ALLOCATION": "Asignación",
+    "ABOUT_US": "Sobre nosotros",
+    "SPELL": "Contacto",
+    "TECH": "Tecnologias",
+    "FAQ": "FAQ",
+    "SPECIALIST": "Encontrar especialista",
+    "BUDGET": "Presupuesto",
+    "OFFERS": "Ofertas"
+  },
+  "ABOUT": {
+    "TITLE": "Por qué las empresas <br> eligen a <span class='featured'>Steply</span>",
+    "SUBTITLE": "<p>Steply es un grupo de <strong>especialistas en TI</strong> <br> que se unieron para ofrecer lo mejor en asignación de profesionales.</p> <p>La comunidad Steply ya cuenta con más de <strong>1000 especialistas</strong></p>",
+    "CHILD": {
+      "LEARN": "Aprendimos de los errores y limitaciones de otros modelos de mercado y desarrollamos un proceso más asertivo, que garantiza un <strong>96% de éxito en las asignaciones</strong>.",
+      "OUR_PROFESSIONALS": "Nuestros profesionales son seleccionados rigurosamente, garantizando <strong>confianza y excelencia</strong>, con un historial de <strong>100% de entrega en los proyectos propuestos</strong>.",
+      "ALOCATION": "Además de la asignación, ofrecemos <strong>consultoría y gestión tecnológica bajo demanda (CTO as a Service)</strong>, apoyando a su empresa en decisiones estratégicas y en la ejecución eficiente de proyectos."
+    },
+    "BRANDS": "Experiencia consolidada en organizaciones líderes"
+  },
+  "CTA_PROJECT": {
+    "TITLE": "<span class='featured'>Steply</span> es una consultoría tecnológica formada por especialistas con <strong>más de 10 años en el mercado</strong>. Nuestro objetivo es reducir costos, aumentar la seguridad y escalar negocios.",
+    "SUBTITLE": "Conducimos la <strong>transformación digital</strong> con Scrum en la práctica, creando entornos ágiles y productivos.",
+    "SUBTITLE_2": "Ofrecemos <strong>consultoría a medida</strong>, con un arquitecto de soluciones dedicado a mapear cuellos de botella y definir planes estratégicos.",
+    "FORM": {
+      "TITLE": "Cuéntenos sobre su proyecto.",
+      "INPUTS": {
+        "NAME": "Su nombre",
+        "EMAIL": "Su mejor correo electrónico",
+        "BUSINESS": "Nombre de su empresa",
+        "PHONE": "Teléfono de contacto",
+        "TASK": "Describa su demanda"
+      },
+      "HELP": "¿Necesita apoyo? Envíe su información y la descripción de su demanda, un especialista analizará los datos y preparará un briefing gratuito y personalizado para usted.",
+      "BTN": "Análisis de especialista"
+    }
+  },
+  "TECH": {
+    "TITLE": "Tecnologías que usamos",
+    "INPUTS": {
+      "SEARCH": "Encuentre la tecnología que busca"
+    }
+  },
+  "CHOOSE": {
+    "TITLE": "Elija la <span class='featured'>mejor opción</span> para <br> su tipo de negocio",
+    "CARD": {
+      "TITLE": "Asignación de SQUAD",
+      "SUBTITLE": "Indicado para empresas con proyectos en sus etapas iniciales, startups",
+      "DETAILS": {
+        "ADV_1": "Equipo completo de especialistas, squad estable, con baja rotación.",
+        "ADV_2": "Procesos robustos con estándares de mercado (Scrum/SAFe)",
+        "ADV_3": "Gestión de dependencias entre equipos",
+        "ADV_4": "Flujo Git completo, CI/CD avanzado y automatización de calidad",
+        "ADV_5": "Monitoreo continuo de rendimiento y seguridad",
+        "ADV_6": "Documentación detallada y compliance de mercado",
+        "ADV_7": "Planificación estratégica anual de tecnología y producto",
+        "ADV_8": "Contrato flexible",
+        "BTN": "Solicitar Squad"
+      }
+    },
+    "CARD_2": {
+      "TITLE": "Asignación de especialista",
+      "SUBTITLE": "Indicado para empresas con proyectos heredados que necesitan escalabilidad",
+      "DETAILS": {
+        "ADV_1": "Especialista asignado según su demanda (Dev, QA, Diseñador, PM, Tech Lead.)",
+        "ADV_2": "Especialista con al menos 5 años de experiencia",
+        "ADV_3": "Ajuste de carga horaria (part-time o full-time)",
+        "ADV_4": "Integración rápida con su equipo interno",
+        "ADV_5": "Experiencia previa en metodologías ágiles y buenas prácticas de mercado",
+        "ADV_6": "Comunicación directa y seguimiento de entregas",
+        "ADV_7": "Flexibilidad para trabajar en múltiples proyectos o frentes",
+        "ADV_8": "Contrato flexible",
+        "BTN": "Solicitar Especialista"
+      }
+    }
+  },
+  "FAQ": {
+    "TITLE": "Preguntas frecuentes"
+  }, 
+  "CALC": {
+    "TITLE": "Calculadora de Ahorro <span class='featured'>Steply</span>",
+    "SUBTITLE": "Mida el TCO real y vea cuánto ahorra su empresa al elegir Steply. <br><strong>Comparamos CLT vs Steply considerando:</strong>",
+    "SUBTITLE_2": "<br>Cargas e impuestos CLT (INSS, FGTS, vacaciones, aguinaldo/13º, beneficios) <br>3 meses de ramp-up/entrenamiento del CLT <br>Costo de reclutamiento/selección del CLT <br>Nuestro precio de asignación 20% por debajo de la competencia",
+    "RESPONSE": {
+      "ECONOMY": "Eligiendo Steply puedes ahorrar en {{ months }} meses hasta: {{ savings }}",
+      "COUST": "Costo CLT total (cargas, beneficios, reclutamiento y ramp-up): {{ coust }}",
+      "INVEST": "Inversión estimada de Steply en {{ months }} meses: {{ invest }}",
+      "DETAILS": {
+        "CLT": "Base CLT",
+        "TAXES": "Cargas CLT:",
+        "RECRUITMENT": "Reclutamiento:",
+        "RAMP-UP": "Ramp-up:",
+        "STEPLY": "Total Steply:"
+      },
+      "CARD": {
+        "BASE": "Base (mes):",
+        "TAXES": "Cargas",
+        "CLT": "CLT/mes:",
+        "RECRUITMENT": "Reclutamiento (único):",
+        "RAMP-UP": "Ramp-up",
+        "CLT-COUST": "Total CLT en el período:",
+        "STEPLY": "Steply/mes:",
+        "CONTRACT": "Su empresa ahorra",
+        "CALL": "Su contrato con Steply:"
+      },
+      "PROPOSAL": "Eficiencia de costos. Puesta en producción rápida. Cero fricción. Especialistas disponibles ahora, mejor propuesta garantizada."
+    },
+    "DETAIL": {
+      "TITLE": "Complete la información abajo con sus datos de contratación y descubra cuánto estaría ahorrando con Steply"
+    },
+    "BTN": "Ver resultado",
+    "INFO": "Al utilizar esta herramienta, usted reconoce que los valores presentados son solo estimaciones y acepta nuestra Política de Privacidad, Política de Cookies y Términos de Uso."
+  },
+  "POSITIONS": {
+    "frontend_jr": "Ingeniero/a Frontend Junior",
+    "frontend_pl": "Ingeniero/a Frontend Semi Senior",
+    "frontend_sr": "Ingeniero/a Frontend Senior",
+    "backend_jr": "Ingeniero/a Backend Junior",
+    "backend_pl": "Ingeniero/a Backend Semi Senior",
+    "backend_sr": "Ingeniero/a Backend Senior",
+    "fullstack_pl": "Ingeniero/a Full-stack Semi Senior",
+    "fullstack_sr": "Ingeniero/a Full-stack Senior",
+    "mobile_sr": "Ingeniero/a Mobile Senior",
+    "devops_sr": "Ingeniero/a DevOps Senior",
+    "qa_pl": "Ingeniero/a QA Semi Senior",
+    "qa_sr": "Ingeniero/a QA Senior",
+    "data_eng_sr": "Ingeniero/a de Datos Senior",
+    "data_sci_pl": "Científico/a de Datos Semi Senior",
+    "tech_lead": "Tech Lead",
+    "arch_sr": "Arquitecto/a de Software Senior"
+  },
+  "MAIL": {
+    "FROM_NAME": "Solicitud de Asignación",
+    "SUBJECT": "We received your message, {{nome}}",
+    "GREETING": "Hi, {{nome}}!",
+    "INTRO": "We received your message and we will get back within 24 hours.",
+    "LABEL": {
+      "BUSINESS": "Business:",
+      "PHONE": "Phone:",
+      "DETAILS": "Details:"
+    },
+    "OWNER_MESSAGE": "Business: {{business}} | Phone: {{phone}} | Task: {{task}}",
+    "TAGLINE": "Build everything,<br> in your business",
+    "FORM": {
+      "ERRORS": {
+        "REQUIRED": "Required.",
+        "EMAIL": "Invalid email.",
+        "MIN_LENGTH": "Minimum of {{min}} characters."
+      },
+      "MESSAGES": {
+        "SUCCESS": "Message sent successfully.",
+        "SENDING": "Sending...",
+        "SEND_ERROR": "Failed to send email.",
+        "BOT_BLOCKED": "Blocked due to suspected bot.",
+        "INVALID_FIELDS": "Please fill in the required fields."
+      }
+    }
+  }
+}

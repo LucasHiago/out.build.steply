@@ -1,0 +1,164 @@
+{
+  "OUTSOURCING": {
+    "TITLE": "A força de  <span class='featured'>especialistas</span>, na medida certa para o seu negócio.",
+    "SUBTITLE": "A Steply reúne mais de <strong> doze anos de experiência e milhares de talentos em tecnologia</strong>, já aplicados em projetos de sucesso.  Acelerando os resultados do seu projeto."
+  },
+  "MENU": {
+    "ALLOCATION": "Alocação",
+    "ABOUT_US": "Sobre nós",
+    "SPELL": "Contato",
+    "TECH": "Tecnologias",
+    "FAQ": "FAQ",
+    "SPECIALIST": "Encontrar especialista",
+    "BUDGET": "Orçamento",
+    "OFFERS": "Ofertas"
+  },
+  "ABOUT": {
+    "TITLE": "Por que as empresas <br> escolhem a <span class='featured'>Steply</span>",
+    "SUBTITLE": "<p>A Steply é um grupo de <strong>especialistas em TI</strong> <br> que se uniram para oferecer o melhor em alocação de profissionais.</p> <p>A comunidade Steply já conta com mais de <strong> 1000 especialistas </strong></p>",
+    "CHILD": {
+      "LEARN":"Aprendemos com os erros e limitações de outros modelos de mercado e desenvolvemos um processo mais assertivo, que garante <strong>96% de sucesso nas alocações</strong>.",
+      "OUR_PROFESSIONALS": "Nossos profissionais são selecionados com rigor, garantindo <strong>confiança e excelência</strong>, com um histórico de <strong>100% de entrega nos projetos propostos</strong>.",
+      "ALOCATION":"Além da alocação, oferecemos <strong>consultoria e gestão tecnológica sob demanda (CTO as a Service)</strong>, apoiando sua empresa em decisões estratégicas e na execução eficiente de projetos."
+    },
+    "BRANDS": "Vivência consolidada em organizações líderes"
+  },
+  "CTA_PROJECT": {
+    "TITLE": "A <span class='featured'>Steply</span> é uma consultoria de tecnologia formada por especialistas com <strong> mais de 10 anos de mercado</strong>. Nosso objetivo é reduzir custos, aumentar a segurança e escalar negócios.",
+    "SUBTITLE": "Conduzimos a <strong>transformação digital</strong> com Scrum na prática, criando ambientes ágeis e produtivos.",
+    "SUBTITLE_2": "Oferecemos <strong>consultoria sob medida</strong>, com arquiteto de soluções dedicado para mapear gargalos e definir planos estratégicos.",
+    "FORM": {
+      "TITLE": "Conte sobre seu projeto.",
+      "INPUTS": {
+        "NAME": "Seu nome",
+        "EMAIL": "Seu melhor e-mail",
+        "BUSINESS": "Nome da sua empresa",
+        "PHONE": "Telefone de contato",
+        "TASK": "Descreva sua demanda"
+      },
+      "HELP": "Precisa de apoio? Envie suas informações e a descrição da sua demanda, um especialista vai analisar os dados e montar um briefing gratuito e personalizado para você.",
+      "BTN": "Analise de especialista"
+    }
+  },
+  "TECH": {
+    "TITLE": "Tecnologias que usamos",
+    "INPUTS": {
+      "SEARCH": "Encontre a  tecnologia que procura"
+    }
+  },
+  "CHOOSE": {
+    "TITLE": "Escolha a <span class='featured'>melhor opção</span> para <br> o seu tipo de negócio",
+    "CARD": {
+      "TITLE": "Alocação de SQUAD",
+      "SUBTITLE": "Indicado para empresas com projetos em suas etapas iniciais, startups",
+      "DETAILS": {
+        "ADV_1": "Time completo de especialistas, squad estável, com baixa rotatividade.",
+        "ADV_2": "Processos robustos com padrões de mercado (Scrum/SAFe)",
+        "ADV_3": "Gestão de dependências entre times",
+        "ADV_4": "Git flow completo, CI/CD avançado e automação de qualidade",
+        "ADV_5": "Monitoramento contínuo de performance e segurança",
+        "ADV_6": "Documentação detalhada e compliance de mercado",
+        "ADV_7": "Planejamento estratégico anual de tecnologia e produto",
+        "ADV_8": "Contrato flexível",
+        "BTN": "Solicitar Squad"
+      }
+    },
+    "CARD_2": {
+      "TITLE": "Alocação de especialista",
+      "SUBTITLE": "Indicado para empresas com projetos legados, que necessitam de escalabilidade",
+      "DETAILS": {
+        "ADV_1": "Especialista alocado conforme sua demanda (Dev, QA, Designer, PM, Tech Lead.)",
+        "ADV_2": "Especialista com experiência de no mínimo 5 anos",
+        "ADV_3": "Ajuste de carga horária (part-time ou full-time)",
+        "ADV_4": "Integração rápido ao seu time interno",
+        "ADV_5": "Experiência prévia em metodologias ágeis e boas práticas de mercado",
+        "ADV_6": "Comunicação direta e acompanhamento de entregas",
+        "ADV_7": "Flexibilidade para atuar em múltiplos projetos ou frentes",
+        "ADV_8": "Contrato flexível",
+        "BTN": "Solicitar Especialista"
+      }
+    }
+  },
+  "FAQ": {
+    "TITLE": "Dúvidas frequentes"
+  },
+  "CALC": {
+    "TITLE": "Calculadora de Economia <span class='featured'>Steply</span>",
+    "SUBTITLE": "Meça o TCO real e veja quanto sua empresa economiza escolhendo a Steply. <br><strong>Comparamos CLT vs Steply considerando:</strong>",
+    "SUBTITLE_2": "<br>Encargos e impostos CLT (INSS, FGTS, férias, 13º, benefícios) <br>3 meses de ramp-up/treinamento do CLT <br>Custo de recrutamento/seleção do CLT <br>Nosso preço de alocação 20% abaixo das alocações concorrentes",
+    "RESPONSE": {
+      "ECONOMY": "Escolhendo a Steply você pode economizar em {{ months }} meses até: {{ savings }}",
+      "COUST": "Custo CLT total (encargos, benefícios, recrutamento e ramp-up): {{ coust }}",
+      "INVEST": "Investimento Steply aproximado em {{ months }} meses: {{ invest }}",
+      "DETAILS": {
+        "CLT": "Base CLT",
+        "TAXES": "Encargos CLT:",
+        "RECRUITMENT": "Recrutamento:",
+        "RAMP-UP": "Ramp-up:",
+        "STEPLY": "Steply total:"
+      },
+      "CARD": {
+        "BASE": "Base (mês):",
+        "TAXES": "Encargos",
+        "CLT": "CLT/mês:",
+        "RECRUITMENT": "Recrutamento (one-shot):",
+        "RAMP-UP": "Ramp-up",
+        "CLT-COUST": "Total CLT no período:",
+        "STEPLY": "Steply/mês:",
+        "CONTRACT": "Sua empresa economiza",
+        "CALL": "Seu contrato com a Steply:"
+      },
+      "PROPOSAL": "Eficiência de custo. Go-live rápido. Zero fricção. Especialistas disponíveis já, melhor proposta garantida."
+    },
+    "DETAIL": {
+      "TITLE": "Preencha as informaçoes abaixo com seus dados de contratação e descubra quando estaria economizando com a Steply"
+    },
+    "BTN": "Ver resultado",
+    "INFO": "Ao utilizar esta ferramenta, você declara estar ciente de que os valores apresentados são apenas estimativas e concorda com a nossa Política de Privacidade, Política de Cookies e Termos de Uso."
+  },
+  "POSITIONS": {
+    "frontend_jr": "Frontend Jr",
+    "frontend_pl": "Frontend Pl",
+    "frontend_sr": "Frontend Sr",
+    "backend_jr": "Backend Jr",
+    "backend_pl": "Backend Pl",
+    "backend_sr": "Backend Sr",
+    "fullstack_pl": "Fullstack Pl",
+    "fullstack_sr": "Fullstack Sr",
+    "mobile_sr": "Mobile Sr",
+    "devops_sr": "DevOps Sr",
+    "qa_pl": "QA Pl",
+    "qa_sr": "QA Sr",
+    "data_eng_sr": "Engenharia de Dados Sr",
+    "data_sci_pl": "Ciência de Dados Pl",
+    "tech_lead": "Tech Lead",
+    "arch_sr": "Arquiteto de Software Sr"
+  },
+  "MAIL": {
+    "FROM_NAME": "Solicitação Alocação",
+    "SUBJECT": "Recebemos seu contato {{nome}}",
+    "GREETING": "Olá, {{nome}}!",
+    "INTRO": "Recebemos sua mensagem e retornaremos em até 24h.",
+    "LABEL": {
+      "BUSINESS": "Business:",
+      "PHONE": "Telefone:",
+      "DETAILS": "Detalhes:"
+    },
+    "OWNER_MESSAGE": "Business: {{business}} | Telefone: {{phone}} | Tarefa: {{task}}",
+    "TAGLINE": "Construa tudo,<br> no seu negócio",
+    "FORM": {
+      "ERRORS": {
+        "REQUIRED": "Obrigatório.",
+        "EMAIL": "E-mail inválido.",
+        "MIN_LENGTH": "Mínimo de {{min}} caracteres."
+      },
+      "MESSAGES": {
+        "SUCCESS": "Mensagem enviada com sucesso.",
+        "SENDING": "Enviando...",
+        "SEND_ERROR": "Falha ao enviar e-mail.",
+        "BOT_BLOCKED": "Bloqueado por suspeita de bot.",
+        "INVALID_FIELDS": "Preencha os campos obrigatórios."
+      }
+    }
+  }
+}

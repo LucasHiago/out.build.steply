@@ -1,0 +1,164 @@
+{
+  "OUTSOURCING": {
+    "TITLE": "The power of <span class='featured'>specialists</span>, tailored to your business needs.",
+    "SUBTITLE": "Steply brings together over <strong>twelve years of experience and thousands of technology talents</strong>, already applied in successful projects."
+  },
+  "MENU": {
+    "ALLOCATION": "Allocation",
+    "ABOUT_US": "About Us",
+    "SPELL": "Contact",
+    "TECH": "Technologies",
+    "FAQ": "FAQ",
+    "SPECIALIST": "Find Specialist",
+    "BUDGET": "Budget",
+    "OFFERS": "Offers"
+  },
+  "ABOUT": {
+    "TITLE": "Why do companies <br> choose <span class='featured'>Steply</span>",
+    "SUBTITLE": "<p>Steply is a group of <strong>IT specialists</strong> <br> who joined forces to offer the best in professional allocation.</p> <p>The Steply community already has more than <strong>1000 specialists</strong></p>",
+    "CHILD": {
+      "LEARN": "We learned from the mistakes and limitations of other market models and developed a more assertive process that guarantees <strong>96% success in allocations</strong>.",
+      "OUR_PROFESSIONALS": "Our professionals are rigorously selected, ensuring <strong>trust and excellence</strong>, with a track record of <strong>100% delivery on proposed projects</strong>.",
+      "ALOCATION": "In addition to allocation, we offer <strong>on-demand consulting and technology management (CTO as a Service)</strong>, supporting your company in strategic decisions and efficient project execution."
+    },
+    "BRANDS": "Consolidated experience in leading organizations"
+  },
+  "CTA_PROJECT": {
+    "TITLE": "<span class='featured'>Steply</span> is a technology consultancy formed by specialists with <strong>over 10 years of market experience</strong>. Our goal is to reduce costs, increase security, and scale businesses.",
+    "SUBTITLE": "We lead <strong>digital transformation</strong> with Scrum in practice, creating agile and productive environments.",
+    "SUBTITLE_2": "We offer <strong>tailor-made consulting</strong>, with a dedicated solution architect to map bottlenecks and define strategic plans.",
+    "FORM": {
+      "TITLE": "Tell us about your project.",
+      "INPUTS": {
+        "NAME": "Your name",
+        "EMAIL": "Your best email",
+        "BUSINESS": "Your company name",
+        "PHONE": "Contact phone",
+        "TASK": "Describe your demand"
+      },
+      "HELP": "Need support? Send your information and a description of your demand, a specialist will analyze the data and create a free personalized briefing for you.",
+      "BTN": "Specialist Analysis"
+    }
+  },
+  "TECH": {
+    "TITLE": "Technologies we use",
+    "INPUTS": {
+      "SEARCH": "Find the technology you are looking for"
+    }
+  },
+  "CHOOSE": {
+    "TITLE": "Choose the <span class='featured'>best option</span> for <br> your type of business",
+    "CARD": {
+      "TITLE": "Squad Allocation",
+      "SUBTITLE": "Recommended for companies with projects in their early stages, startups",
+      "DETAILS": {
+        "ADV_1": "Full team of specialists, stable squad, with low turnover.",
+        "ADV_2": "Robust processes with market standards (Scrum/SAFe)",
+        "ADV_3": "Dependency management between teams",
+        "ADV_4": "Complete Git flow, advanced CI/CD, and quality automation",
+        "ADV_5": "Continuous performance and security monitoring",
+        "ADV_6": "Detailed documentation and market compliance",
+        "ADV_7": "Annual strategic planning for technology and product",
+        "ADV_8": "Flexible contract",
+        "BTN": "Request Squad"
+      }
+    },
+    "CARD_2": {
+      "TITLE": "Specialist Allocation",
+      "SUBTITLE": "Recommended for companies with legacy projects that need scalability",
+      "DETAILS": {
+        "ADV_1": "Specialist allocated according to your demand (Dev, QA, Designer, PM, Tech Lead.)",
+        "ADV_2": "Specialist with at least 5 years of experience",
+        "ADV_3": "Workload adjustment (part-time or full-time)",
+        "ADV_4": "Quick integration with your internal team",
+        "ADV_5": "Previous experience in agile methodologies and market best practices",
+        "ADV_6": "Direct communication and delivery tracking",
+        "ADV_7": "Flexibility to work on multiple projects or fronts",
+        "ADV_8": "Flexible contract",
+        "BTN": "Request Specialist"
+      }
+    }
+  },
+  "FAQ": {
+    "TITLE": "Frequently Asked Questions"
+  },
+  "CALC": {
+    "TITLE": "<span class='featured'>Steply</span> Savings Calculator",
+    "SUBTITLE": "Measure the real TCO and see how much your company saves by choosing Steply. <br><strong>We compare CLT vs Steply considering:</strong>",
+    "SUBTITLE_2": "<br>CLT taxes and contributions (INSS, FGTS, vacation, 13th-month salary, benefits) <br>3 months of CLT ramp-up/training <br>CLT recruiting/selection cost <br>Our allocation price 20% below competing allocations",
+    "RESPONSE": {
+      "ECONOMY": "By choosing Steply you can save in {{ months }} months up to: {{ savings }}",
+      "COUST": "Total CLT cost (charges, benefits, recruiting and ramp-up): {{ coust }}",
+      "INVEST": "Estimated Steply investment over {{ months }} months: {{ invest }}",
+      "DETAILS": {
+        "CLT": "CLT Base",
+        "TAXES": "CLT overheads:",
+        "RECRUITMENT": "Recruitment:",
+        "RAMP-UP": "Ramp-up:",
+        "STEPLY": "Steply total:"
+      },
+      "CARD": {
+        "BASE": "Base (month):",
+        "TAXES": "Overheads",
+        "CLT": "CLT/month:",
+        "RECRUITMENT": "Recruitment (one-off):",
+        "RAMP-UP": "Ramp-up",
+        "CLT-COUST": "Total CLT in the period:",
+        "STEPLY": "Steply/month:",
+        "CONTRACT": "Your company saves",
+        "CALL": "Your contract with Steply:"
+      },
+      "PROPOSAL": "Cost efficiency. Fast go-live. Zero friction. Specialists available now, best offer guaranteed."
+    },
+    "DETAIL": {
+      "TITLE": "Fill in the information below with your hiring data and discover how much you would save with Steply"
+    },
+    "BTN": "See result",
+    "INFO": "By using this tool, you acknowledge that the values shown are estimates only and you agree to our Privacy Policy, Cookie Policy, and Terms of Use."
+  },  
+  "POSITIONS": {
+    "frontend_jr": "Junior Frontend Engineer",
+    "frontend_pl": "Mid-level Frontend Engineer",
+    "frontend_sr": "Senior Frontend Engineer",
+    "backend_jr": "Junior Backend Engineer",
+    "backend_pl": "Mid-level Backend Engineer",
+    "backend_sr": "Senior Backend Engineer",
+    "fullstack_pl": "Mid-level Full-stack Engineer",
+    "fullstack_sr": "Senior Full-stack Engineer",
+    "mobile_sr": "Senior Mobile Engineer",
+    "devops_sr": "Senior DevOps Engineer",
+    "qa_pl": "Mid-level QA Engineer",
+    "qa_sr": "Senior QA Engineer",
+    "data_eng_sr": "Senior Data Engineer",
+    "data_sci_pl": "Mid-level Data Scientist",
+    "tech_lead": "Tech Lead",
+    "arch_sr": "Senior Software Architect"
+  },
+  "MAIL": {
+    "FROM_NAME": "Allocation Request",
+    "SUBJECT": "Recibimos tu mensaje, {{nome}}",
+    "GREETING": "¡Hola, {{nome}}!",
+    "INTRO": "Recibimos tu mensaje y responderemos en 24 horas.",
+    "LABEL": {
+      "BUSINESS": "Negocio:",
+      "PHONE": "Teléfono:",
+      "DETAILS": "Detalles:"
+    },
+    "OWNER_MESSAGE": "Negocio: {{business}} | Teléfono: {{phone}} | Tarea: {{task}}",
+    "TAGLINE": "Construye todo,<br> en tu negocio",
+    "FORM": {
+      "ERRORS": {
+        "REQUIRED": "Obligatorio.",
+        "EMAIL": "Correo inválido.",
+        "MIN_LENGTH": "Mínimo de {{min}} caracteres."
+      },
+      "MESSAGES": {
+        "SUCCESS": "Mensaje enviado correctamente.",
+        "SENDING": "Enviando...",
+        "SEND_ERROR": "Error al enviar el correo.",
+        "BOT_BLOCKED": "Bloqueado por sospecha de bot.",
+        "INVALID_FIELDS": "Complete los campos obligatorios."
+      }
+    }
+  }
+}
