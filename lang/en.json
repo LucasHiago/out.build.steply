@@ -160,5 +160,44 @@
         "INVALID_FIELDS": "Complete los campos obligatorios."
       }
     }
+  },
+  "SECURITY": {
+    "TITLE": "Security in Every Detail",
+    "SUBTITLE": "At Steply, protecting your data and systems is our top priority. We adopt <strong>international security protocols</strong>, end-to-end encryption, and continuous monitoring.",
+    "DETAILS": [
+      "Governance and compliance: we operate in compliance with LGPD, GDPR, and international best practices such as ISO/IEC 27001. All security policies are formally documented, periodically reviewed, and validated through internal audits to ensure adherence and effectiveness.",
+      "Encryption and key management: all data in transit is protected with TLS 1.2+ (preferably TLS 1.3), and data at rest is encrypted using AES-256. Keys are managed by secure KMS/HSM systems with scheduled rotation and full audit trails.",
+      "Identity and access control: we apply the principle of least privilege across all permissions. Administrative access requires multi-factor authentication and is logged immutably. Quarterly reviews ensure that only authorized users maintain access.",
+      "Infrastructure and network: environments are segmented (production, staging, development) and protected by application firewalls, WAF, and DDoS mitigation. Our servers follow CIS benchmarks, with hardened operating systems and container security.",
+      "Secure development lifecycle: all code undergoes static analysis (SAST), dependency scanning (SCA), and dynamic testing (DAST). Critical vulnerabilities block the pipeline until resolved. Manual code reviews complement automated scans to prevent risks.",
+      "Monitoring and detection: application and infrastructure logs are centralized in monitoring platforms. A SIEM correlates events and triggers real-time alerts. Suspicious incidents are immediately investigated.",
+      "Incident response: we follow structured playbooks covering triage, containment, eradication, and recovery. Every incident is followed by a documented post-mortem with concrete action plans to prevent recurrence.",
+      "Backup and business continuity: encrypted backups are performed with defined retention and tested regularly for restoration. Disaster recovery plans ensure that critical services are resumed quickly, even under severe scenarios."
+    ]
+  },
+  "PRIVACITY": {
+    "TITLE": "Privacy Policy",
+    "SUBTITLE": "Your privacy is essential to us. We ensure transparency in how we use information and fully respect your choices regarding the handling of your data.",
+    "DETAILS": [
+      "Responsible collection: we only collect the data strictly necessary to deliver our services, such as contact details, access credentials, and usage preferences. We never request excessive or irrelevant information.",
+      "Clear purpose: each piece of data is used exclusively for legitimate and previously communicated purposes, including contract execution, user experience improvement, customer support, and compliance with legal obligations.",
+      "Guaranteed rights: every data subject has the right to access, correct, update, restrict processing, or request deletion of their personal data at any time, in full compliance with LGPD and GDPR.",
+      "Secure sharing: data is shared only with strategic partners that adhere to the same security and privacy standards. All sharing is formalized through contracts and limited to what is strictly necessary.",
+      "Storage and retention: information is stored on secure servers with encryption and high availability. Retention periods are limited to the time necessary to fulfill the stated purpose or meet legal requirements.",
+      "Use of cookies: we use cookies and similar technologies transparently, always to improve navigation and personalize the experience. Users may review and manage their preferences at any time.",
+      "Transparency and contact: we provide direct support channels for questions, data access requests, or complaints related to personal data processing, ensuring clarity and agility in every interaction."
+    ]
+  },
+  "TERMS": {
+    "TITLE": "Terms of Use",
+    "SUBTITLE": "By using Steply’s services, you agree to our <strong>terms and conditions</strong>, which ensure transparency, accountability, and clarity in every interaction.",
+    "DETAILS": [
+      "Scope of services: all services provided by Steply are described in contracts and official documentation. Any additional features or changes will be communicated in advance and may be subject to specific conditions.",
+      "Mutual obligations: Steply commits to delivering stable, secure, and compliant digital solutions, while the client must provide accurate information, respect payment deadlines, and use the services in accordance with applicable law.",
+      "Usage limitations: it is strictly prohibited to use the platform for unlawful, abusive, or fraudulent purposes, or in ways that could compromise the security of third parties. Violations may result in suspension or immediate termination of services.",
+      "Intellectual property: all software, trademarks, content, and code developed or made available by Steply remain protected by copyright and intellectual property rights. Clients are granted only a license of use, with no rights to reproduce or redistribute without express authorization.",
+      "Termination and amendments: contracts may be terminated in cases of breach, by mutual agreement, or in accordance with legal deadlines. Any amendments to the terms will be communicated transparently and with reasonable notice.",
+      "Dispute resolution: any disputes arising from the use of services will first be addressed through mediation. If unresolved, arbitration will be used as the chosen method, ensuring efficiency and avoiding prolonged judicial processes."
+    ]
   }
 }

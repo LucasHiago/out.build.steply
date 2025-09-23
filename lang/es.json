@@ -160,5 +160,44 @@
         "INVALID_FIELDS": "Please fill in the required fields."
       }
     }
+  },
+  "SECURITY": {
+    "TITLE": "Seguridad en cada detalle",
+    "SUBTITLE": "En Steply, la protección de sus datos y sistemas es nuestra máxima prioridad. Adoptamos <strong>protocolos internacionales de seguridad</strong>, cifrado de extremo a extremo y monitoreo continuo.",
+    "DETAILS": [
+      "Gobernanza y cumplimiento: operamos en conformidad con LGPD, GDPR y buenas prácticas internacionales como ISO/IEC 27001. Todas las políticas de seguridad están documentadas, se revisan periódicamente y se validan mediante auditorías internas para garantizar su eficacia.",
+      "Cifrado y gestión de claves: todos los datos en tránsito están protegidos con TLS 1.2+ (preferiblemente TLS 1.3), y los datos en reposo utilizan cifrado AES-256. Las claves son gestionadas por sistemas seguros (KMS/HSM) con rotación programada y registros de auditoría completos.",
+      "Identidad y control de acceso: aplicamos el principio de mínimo privilegio en todos los permisos. El acceso administrativo requiere autenticación multifactor y se registra de forma inmutable. Revisiones trimestrales aseguran que solo usuarios autorizados mantengan acceso.",
+      "Infraestructura y red: los entornos están segmentados (producción, pruebas y desarrollo) y protegidos por firewalls de aplicación, WAF y mitigación contra DDoS. Nuestros servidores siguen benchmarks de seguridad con hardening de sistemas operativos y contenedores.",
+      "Ciclo de desarrollo seguro: todo el código pasa por análisis estático (SAST), revisión de dependencias (SCA) y pruebas dinámicas (DAST). Las vulnerabilidades críticas bloquean el pipeline hasta su corrección. Revisiones manuales de código complementan los controles automáticos.",
+      "Monitoreo y detección: todos los registros de aplicación e infraestructura se centralizan en plataformas de monitoreo. Un SIEM correlaciona eventos y dispara alertas en tiempo real. Los incidentes sospechosos generan investigaciones inmediatas.",
+      "Respuesta a incidentes: seguimos playbooks estructurados que incluyen clasificación, contención, erradicación y recuperación. Cada incidente es seguido por un post-mortem documentado con planes de acción concretos.",
+      "Respaldo y continuidad del negocio: realizamos copias de seguridad cifradas con retención definida y pruebas regulares de restauración. Los planes de recuperación ante desastres aseguran la reanudación rápida de servicios críticos incluso en escenarios severos."
+    ]
+  },
+  "PRIVACITY": {
+    "TITLE": "Política de Privacidad",
+    "SUBTITLE": "Su privacidad es esencial para nosotros. Garantizamos transparencia en el uso de la información y respetamos plenamente sus decisiones sobre cómo se tratan sus datos.",
+    "DETAILS": [
+      "Recopilación responsable: recopilamos únicamente los datos estrictamente necesarios para la prestación de nuestros servicios, como información de contacto, credenciales de acceso y preferencias de uso. Nunca solicitamos datos excesivos o irrelevantes.",
+      "Finalidad clara: cada dato recopilado se utiliza exclusivamente con fines legítimos y previamente informados, como la ejecución de contratos, la mejora de la experiencia del usuario, la comunicación de soporte y el cumplimiento de obligaciones legales.",
+      "Derechos garantizados: todo titular de datos tiene pleno derecho a acceder, corregir, actualizar, restringir el procesamiento o solicitar la eliminación de su información personal en cualquier momento, de acuerdo con la LGPD y el GDPR.",
+      "Compartición segura: los datos solo se comparten con socios estratégicos que cumplen con los mismos estándares de seguridad y privacidad. Todo intercambio se formaliza mediante contratos y se limita a lo estrictamente necesario.",
+      "Almacenamiento y retención: la información se almacena en servidores seguros con cifrado y alta disponibilidad. El período de retención se limita al tiempo necesario para cumplir con la finalidad informada o exigencia legal.",
+      "Uso de cookies: empleamos cookies y tecnologías similares de manera transparente, siempre con el objetivo de optimizar la navegación y personalizar la experiencia. El usuario puede revisar y gestionar sus preferencias en cualquier momento.",
+      "Transparencia y contacto: ponemos a disposición canales directos de atención para consultas, solicitudes de acceso o reclamaciones relacionadas con el tratamiento de datos personales, garantizando claridad y agilidad en cada interacción."
+    ]
+  },
+  "TERMS": {
+    "TITLE": "Términos de Uso",
+    "SUBTITLE": "Al utilizar los servicios de Steply, usted acepta nuestros <strong>términos y condiciones</strong>, que garantizan transparencia, responsabilidad y claridad en cada interacción.",
+    "DETAILS": [
+      "Alcance de los servicios: todos los servicios ofrecidos por Steply están descritos en contratos y documentación oficial. Cualquier funcionalidad adicional o cambio será comunicado con antelación y podrá estar sujeto a condiciones específicas.",
+      "Obligaciones mutuas: Steply se compromete a entregar soluciones digitales estables, seguras y en conformidad con la normativa vigente, mientras que el cliente debe proporcionar información veraz, cumplir los plazos de pago y utilizar los servicios de manera legal.",
+      "Limitaciones de uso: queda prohibido el uso de la plataforma con fines ilícitos, abusivos, fraudulentos o que puedan comprometer la seguridad de terceros. La violación de estas reglas puede dar lugar a la suspensión o rescisión inmediata de los servicios.",
+      "Propiedad intelectual: todo software, marca, contenido y código desarrollado o puesto a disposición por Steply permanece protegido por derechos de autor y de propiedad intelectual. El cliente recibe únicamente una licencia de uso, sin derecho a reproducir o redistribuir sin autorización expresa.",
+      "Rescisión y modificaciones: los contratos podrán darse por terminados en caso de incumplimiento, por acuerdo mutuo o según los plazos legales. Cualquier modificación en los términos será comunicada de manera transparente y con antelación razonable.",
+      "Resolución de conflictos: las disputas derivadas del uso de los servicios serán tratadas inicialmente mediante mediación. Si el conflicto persiste, se recurrirá al arbitraje como método elegido, garantizando agilidad y evitando procesos judiciales prolongados."
+    ]
   }
 }
