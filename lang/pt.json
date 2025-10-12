@@ -199,5 +199,62 @@
       "Rescisão e alterações: contratos podem ser encerrados em caso de descumprimento, por vontade de ambas as partes ou conforme prazos legais. Alterações nos termos serão comunicadas de forma transparente e com antecedência razoável.",
       "Resolução de conflitos: eventuais disputas decorrentes do uso dos serviços serão inicialmente tratadas por mediação. Persistindo o conflito, a arbitragem será o meio eleito, proporcionando agilidade e evitando litígios judiciais prolongados."
     ]
+  },
+  "VISIT": {
+    "HERO": {
+      "TITLE": "Potencialize sua operação com tecnologia: agende uma <span class='featured'>visita gratuita</span> da Steply",
+      "SUBTITLE": "Nosso time vai até a sua empresa para entender desafios reais e identificar oportunidades de otimização com software, dados e automação.",
+      "B1": "Sem custo e sem compromisso",
+      "B2": "Diagnóstico técnico objetivo",
+      "B3": "Recomendações acionáveis com base em dados"
+    },
+    "FORM": {
+      "TITLE": "Agende sua visita técnica",
+      "NAME": "Seu nome",
+      "EMAIL": "E-mail corporativo",
+      "COMPANY": "Empresa",
+      "WHATS": "WhatsApp (DDD + número)",
+      "ROLE": "Cargo",
+      "WEBSITE": "Website",
+      "CITYUF": "Cidade/UF",
+      "NEED": "Conte brevemente sua necessidade",
+      "CTA": "Agendar visita gratuita",
+      "HELP": "Garantimos confidencialidade. Responderemos em até 1 dia útil."
+    },
+    "BENEFITS": {
+      "TITLE": "Como a visita técnica transforma sua operação",
+      "SUBTITLE": "Mapeamos gargalos, priorizamos ganhos rápidos e desenhamos o próximo passo com clareza.",
+      "B1": { "T": "Diagnóstico in loco", "D": "Entendimento prático dos principais gargalos do seu produto e operação." },
+      "B2": { "T": "KPIs e metas", "D": "Métricas claras para produtividade, qualidade e custo." },
+      "B3": { "T": "Automação e melhorias", "D": "Sugestões de automação e otimização com base em dados reais." },
+      "B4": { "T": "Roadmap de impacto", "D": "Sequência priorizada de ações com esforço e benefício estimados." },
+      "B5": { "T": "Acesso a especialistas", "D": "Arquitetos, devs, dados e QA para tirar o plano do papel." },
+      "B6": { "T": "Velocidade com segurança", "D": "Entrega ágil com governança técnica e boas práticas." },
+      "CTA": "Quero agendar minha visita"
+    },
+    "HOW": {
+      "TITLE": "Como funciona a visita",
+      "SUBTITLE": "Direto ao ponto, focado no que gera resultado.",
+      "S1": { "T": "Você agenda", "D": "Escolha a melhor data e horário." },
+      "S2": { "T": "Vamos até você", "D": "Especialistas em TI, automação e processos visitam sua operação." },
+      "S3": { "T": "Diagnóstico e recomendações", "D": "Você recebe um resumo com insights e oportunidades." },
+      "S4": { "T": "Sem compromisso", "D": "Decida pelos próximos passos no seu ritmo." },
+      "CTA": "Agendar visita agora"
+    },
+    "CASES": {
+      "TITLE": "Empresas que já se beneficiaram com nossas visitas",
+      "CTA": "Quero resultados assim também"
+    },
+    "EXPERTISE": {
+      "TITLE": "Somos especialistas em tecnologia para acelerar o seu negócio",
+      "I1": "Visita gratuita • Diagnóstico técnico • Sem compromisso",
+      "I2": "Outsourcing inteligente com squads dedicados",
+      "I3": "Arquitetura, dados, QA e DevOps com governança",
+      "CTA": "Falar com um especialista",
+      "CONTRAST": "Nota: todos os botões mantêm contraste mínimo 4.5:1 para legibilidade."
+    },
+    "LOGOS": {
+      "TITLE": "Empresas que confiam na Steply"
+    }
   }
 }

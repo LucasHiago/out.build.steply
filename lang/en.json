@@ -199,5 +199,62 @@
       "Termination and amendments: contracts may be terminated in cases of breach, by mutual agreement, or in accordance with legal deadlines. Any amendments to the terms will be communicated transparently and with reasonable notice.",
       "Dispute resolution: any disputes arising from the use of services will first be addressed through mediation. If unresolved, arbitration will be used as the chosen method, ensuring efficiency and avoiding prolonged judicial processes."
     ]
+  },
+   "VISIT": {
+    "HERO": {
+      "TITLE": "Boost your operations with technology: schedule a <span class='featured'>free on-site visit</span> from Steply",
+      "SUBTITLE": "Our team goes to your company to understand real challenges and identify optimization opportunities with software, data, and automation.",
+      "B1": "No cost, no commitment",
+      "B2": "Objective technical assessment",
+      "B3": "Actionable, data-driven recommendations"
+    },
+    "FORM": {
+      "TITLE": "Schedule your technical visit",
+      "NAME": "Your name",
+      "EMAIL": "Corporate email",
+      "COMPANY": "Company",
+      "WHATS": "WhatsApp (area code + number)",
+      "ROLE": "Role",
+      "WEBSITE": "Website",
+      "CITYUF": "City/State",
+      "NEED": "Briefly describe your need",
+      "CTA": "Schedule free visit",
+      "HELP": "Confidentiality guaranteed. We’ll reply within 1 business day."
+    },
+    "BENEFITS": {
+      "TITLE": "How the visit transforms your operation",
+      "SUBTITLE": "We map bottlenecks, prioritize quick wins, and design the next steps with clarity.",
+      "B1": { "T": "On-site assessment", "D": "Hands-on understanding of core product and operational bottlenecks." },
+      "B2": { "T": "KPIs and targets", "D": "Clear metrics for productivity, quality, and cost." },
+      "B3": { "T": "Automation & improvements", "D": "Suggestions backed by real data and process insights." },
+      "B4": { "T": "Impact roadmap", "D": "Prioritized actions with estimated effort and benefit." },
+      "B5": { "T": "Access to specialists", "D": "Architects, devs, data and QA to execute the plan." },
+      "B6": { "T": "Speed with safety", "D": "Agile delivery with technical governance and best practices." },
+      "CTA": "I want to schedule my visit"
+    },
+    "HOW": {
+      "TITLE": "How it works",
+      "SUBTITLE": "Straight to the point, focused on results.",
+      "S1": { "T": "You schedule", "D": "Pick the best date and time." },
+      "S2": { "T": "We go on-site", "D": "Experts in IT, automation and processes visit your operation." },
+      "S3": { "T": "Assessment & recommendations", "D": "Receive a summary with insights and opportunities." },
+      "S4": { "T": "No strings attached", "D": "Decide next steps at your own pace." },
+      "CTA": "Schedule now"
+    },
+    "CASES": {
+      "TITLE": "Companies already benefiting from our visits",
+      "CTA": "I want results like these"
+    },
+    "EXPERTISE": {
+      "TITLE": "We are specialists in technology to accelerate your business",
+      "I1": "Free visit • Technical assessment • No commitment",
+      "I2": "Smart outsourcing with dedicated squads",
+      "I3": "Architecture, data, QA and DevOps with governance",
+      "CTA": "Talk to a specialist",
+      "CONTRAST": "Note: all buttons keep a minimum contrast ratio of 4.5:1 for readability."
+    },
+    "LOGOS": {
+      "TITLE": "Companies that trust Steply"
+    }
   }
 }
